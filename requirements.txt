@@ -1,0 +1,4 @@
+yt_dlp
+pytube
+selenium
+webdriver_manager
